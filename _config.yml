@@ -24,7 +24,6 @@ heroimage: /gb_page_dev/20_ott.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 # If you don't want to use any icon, you can leave them blank.
 email: glarnerberggeiss@bluewin.ch
 facebook_username: glarnerberggeiss
-twitter_username: glarnerberggeiss
 instagram_username: glarnerberggeiss
 
 
@@ -35,13 +34,12 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Glarner Berggeiss 2023
 # URL for the Image of the Author
 author-image: /gb_page_dev/geiss.jpg
 # 60 Words About the Author
 author-about: Nach drei erfolgreichen Jahren geht die Glarner Berggeiss diesen Sommer in die nächste Runde und feiert bereits ihren vierten Geburtstag. Am 25. August am späten Nachmittag findet der Startschuss über verschiedene Strecken hoch von Linthal nach Braunwald statt.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)author-url: https://github.com/thedevslot
 
 # SASS
 sass:
