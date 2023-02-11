@@ -23,14 +23,12 @@
             <!-- navbar items | right side -->
             <div class="navbar-end">
                 <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
-                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">HOME</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#lauefe">Läufe</a>
-		    <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">Geschichte</a>
+                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">Start</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#project">Läufe</a>
+		    <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">Über uns</a>
 		   <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">Kontakt</a>
+			{% include dropdown.html %}
 
-                <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
-                    href="{{site.url}}{{site.baseurl}}/blog">BLOG</a>
-                {% include dropdown.html %}
             </div>
 
         </div>
