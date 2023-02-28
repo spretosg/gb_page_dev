@@ -18,7 +18,7 @@ title: Belvedere (12.6km, 1200Hm)
 #### Höhenprofil
 
   <div class="box"> 
-    <img src="img/profil_lang22.svg"  alt="Höhenprofil Belvedere" width="400" 
+    <img src="assets/images/profil_lang22.svg"  alt="Höhenprofil Belvedere" width="400" 
      style="object-fit:contain;
             width:100%;
             height:auto;
