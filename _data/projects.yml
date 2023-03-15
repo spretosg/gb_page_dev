@@ -1,12 +1,12 @@
 - name: Klassiker
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: assets/images/test1.jpg
   link: 	klassiker
   description: Die ursprünglichste aller Berggeiss Läufe. Von Linthal 5.5 km und 660 Höhenmeter hoch nach Braunwald. Eine steile aber erlebnisreiche Strecke auch für alle Gelegenheits Bergläuferinnen und Bergläufer.
 - name: Belvedere
   link: belvedere
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: assets/images/test2.jpg
   description: Die grosse Schwester! Wo der Klassiker und der Tannbodenlauf Richtung Ziel gehen, geht es beim Belvedere ein zweites mal steil bergauf. Über 12 km und 1200 Höhenmeter erklimmt man die zweite Braunwalder Terrasse und grüsst beim Ortstockhaus.
 - name: Berggizi
   link: berggizi
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: assets/images/test3.jpg
   description: Berglaufen können alle! Nach diesem Motto dieses Jahr zum ersten mal dabei, der Tannbodenlauf. Mit dem Braunwaldbähnli gehts hoch zum Start auf dem Tannboden. Von da befindet man sich auf der Klassiker Strecke, spart sich aber einige Höhenmeter. 4.1km, 450 Höhenmeter und ohne Rangliste ein Genusslauf für alle.
